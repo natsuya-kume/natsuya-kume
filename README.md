@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natsuya-kume&count_private=true&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natsuya-kume&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=natsuya-kume&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=natsuya-kume&theme=dracula)
 
