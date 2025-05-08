@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/natsuya-kume/natsuya-kume/main/profile-summary-card-output/zenburn/4-productive-time.svg)
-```
-
-    
