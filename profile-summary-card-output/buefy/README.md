@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/natsuya-kume/natsuya-kume/main/profile-summary-card-output/buefy/2-most-commit-language.svg)
-```
-
-    
